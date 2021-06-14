@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42344497993",
+    "project_id": "belarus-baseball",
+    "storage_bucket": "belarus-baseball.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42344497993:android:b48c069ecac7124fd79098",
+        "android_client_info": {
+          "package_name": "com.example.belarusbaseball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42344497993-cso2b25aqvivlo8jrrghd2ji3fs3v038.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.belarusbaseball",
+            "certificate_hash": "ddd085d7b4a12b91c323bf8a420ae19b2625bad6"
+          }
+        },
+        {
+          "client_id": "42344497993-un36ja02fbqnkaidc7p0g76sr1kkkuk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6PGFHcVO1ySxApxmG2NysugLkPHHHFzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42344497993-un36ja02fbqnkaidc7p0g76sr1kkkuk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
